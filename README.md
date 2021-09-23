@@ -3,4 +3,4 @@
 
 - 🔭 Jovem aprendiz do Sicoob Credisudeste - setor desenvolvimento de processos.
 - 🌱 Estudando Front End.
-- ⚡ Cursando Analise e Desenvolvimento de processos.
+- ⚡ Cursando Analise e Desenvolvimento de sistema.
