@@ -1,10 +1,5 @@
 ### Olá sou a Flávia Ferrari 👋
 
-
-- 🔭 Jovem aprendiz do Sicoob Credisudeste - Setor Desenvolvimento de Processos.
-- 🌱 Estudando Front End.
-- ⚡ Cursando Analise e Desenvolvimento de Sistema.
-
 <div align="center">
   <a href="https://github.com/ferrariflaviaa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ferrariflaviaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
