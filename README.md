@@ -7,7 +7,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ferrariflaviaa&bg_color=141321&color=00aeff&line=00aeff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <hr/>
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=30&center=true&vCenter=true&width=1000&lines=GitHub+Stats;)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/ferrariflaviaa">
